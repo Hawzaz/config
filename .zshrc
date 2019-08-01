@@ -105,5 +105,8 @@ alias gcc='gcc -Wall -Wextra -Werror'
 alias norminette='norminette -R CheckForbiddenSourceHeader'
 alias hatelist='bash ~/list/hatelist.sh'
 alias cta='cat'
+alias p='pwd'
+alias l='ls -la'
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 export FOLD=~/list/hatelist
+

@@ -36,6 +36,8 @@ set showmatch	" Highlight matching brace
 " set visualbell	" Use visual bell (no beeping) Eew, I hate the visual bell
 set laststatus=2 " Mainly so that Lightline plugin can show up on single screens
 
+set swapfile
+set dir=~/Work/swaps
 set hlsearch	" Highlight all search results
 set smartcase	" Enable smart-case search
 set ignorecase	" Always case-insensitive
