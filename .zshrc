@@ -107,6 +107,9 @@ alias hatelist='bash ~/list/hatelist.sh'
 alias cta='cat'
 alias p='pwd'
 alias l='ls -la'
+alias ga='git add'
+alias gm='git commit -m'
+alias gp='git push'
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 export FOLD=~/list/hatelist
 
